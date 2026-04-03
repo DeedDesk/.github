@@ -22,8 +22,9 @@
 	&nbsp;
 	<img alt="linkedIn_logo" src="../assets/linkedin.png" width="36">
 </p>
-
 <br>
+<h2 align="center"> Everything You Need for a <i>Perfect Agreement</a></h2>
+
 
 <table width="100%">
 	<tr>

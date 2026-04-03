@@ -5,10 +5,11 @@
 </div>
 
 <div align="center">
-	<b><i>India's Smartest Way to Create Rental Agreements</i><b>
+	<h4><i>India's Smartest Way to Create Rental Agreements</i></h4>
 </div>
 
-<div style="margin-top: 32px;"></div>
+<br>
+<br>
 
 <p align="center"><b>Connect With Us</b></p>
 
@@ -23,9 +24,22 @@
 	&nbsp;
 	<img alt="linkedIn_logo" src="../assets/linkedin.png" width="36">
 </p>
-<table border="0" style="display:contents">
+
+<br>
+
+<table border="0">
  <tr>
-	 <td width="500px"><h2 align="center">100% Legally Compliant</h2><img src="../assets/compliant.png" style="margin:10px;" width="85px" alt="Compliant" align="left" /><p>Every agreement is vetted by legal experts and compliant with the latest Indian Rent Laws.</p></td>
-	 <td width="500px"><h2 align="center">Aadhaar OTP eSigning</h2><img src="../assets/aadhaar.png" style="margin:10px;" width="85px" alt="Aadhaar" align="left" /><p>Legally binding signatures using Aadhaar OTP for both landlord and tenant. Sequential signing flows ensure correct order of execution.</p></td>
+   <!-- Legally Compliant -->
+   <td width="500">
+     <h2 align="center"><a href="https://deeddesk.in">100% Legally Compliant</a></h2>
+     <img src="../assets/compliant.png" width="85" alt="Legally Compliant" align="left" />
+     <p>Every agreement is vetted by legal experts and compliant with the latest Indian Rent Laws.</p>
+   </td>
+   <!-- Aadhaar OTP eSigning -->
+   <td width="500">
+     <h2 align="center"><a href="https://deeddesk.in">Aadhaar OTP eSigning</a></h2>
+     <img src="../assets/aadhaar.png" width="85" alt="Aadhaar eSigning" align="left" />
+     <p>Legally binding signatures using Aadhaar OTP for both landlord and tenant. Sequential signing flows ensure correct order of execution.</p>
+   </td>
  </tr>
 </table>

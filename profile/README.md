@@ -31,7 +31,7 @@
 			<h2 align="center"><a href="https://deeddesk.in">100% Legally Compliant</a></h2>
 			<p>
 				<img src="../assets/compliant.png" width="85px" alt="Legally Compliant" align="left" hspace="10" />
-				<em>Every agreement is vetted by legal experts and compliant with the latest Indian Rent Laws.</em>
+				<i>Every agreement is vetted by legal experts and compliant with the latest Indian Rent Laws.
 			</p>
 			<br clear="left" />
 		</td>
@@ -39,7 +39,7 @@
 			<h2 align="center"><a href="https://deeddesk.in">Aadhaar OTP eSigning</a></h2>
 			<p>
 				<img src="../assets/aadhaar.png" width="85px" alt="Aadhaar OTP eSigning" align="left" hspace="10" />
-				<em>Aadhaar OTP-based legally binding signatures for landlord and tenant with sequential signing flows.</em>
+				<i>Aadhaar OTP-based legally binding signatures for landlord and tenant with sequential signing flows.
 			</p>
 			<br clear="left" />
 		</td>
@@ -49,7 +49,7 @@
 			<h2 align="center"><a href="https://deeddesk.in">Renewal Reminders</a></h2>
 			<p>
 				<img src="../assets/reminder.png" width="85px" alt="Renewal Reminders" align="left" hspace="10" />
-				<em>DeedDesk tracks your agreement expiry and sends timely renewal nudges so you're never caught off-guard at the 11-month mark.</em>
+				<i>DeedDesk tracks your agreement expiry and sends timely renewal nudges so you're never caught off-guard at the 11-month mark.
 			</p>
 			<br clear="left" />
 		</td>
@@ -57,7 +57,7 @@
 			<h2 align="center"><a href="https://deeddesk.in">Bank-Grade Security</a></h2>
 			<p>
 				<img src="../assets/secure-ssl.png" height="120px" width="115px" alt="Bank-Grade Security" align="left" hspace="10" />
-				<em>Data encrypted in transit and at rest. OTP-verified access, audit logs, and tamper-proof document chain for every agreement.</em>
+				<i>Data encrypted in transit and at rest. OTP-verified access, audit logs, and tamper-proof document chain for every agreement.
 			</p>
 			<br clear="left" />
 		</td>

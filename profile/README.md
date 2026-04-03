@@ -13,13 +13,13 @@
 <p align="center"><b>Connect With Us</b></p>
 
 <p align="center">
-	<a href="https://deeddesk.in" target="_blank"><img alt="website_logo" src="../assets/worldwide.png" width="34"></a>
+	<a href="https://deeddesk.in" target="_blank"><img alt="website_logo" src="../assets/worldwide.png" width="36"></a>
 	&nbsp;
-	<a href="mailto:deeddesk.in@gmail.com"><img alt="email_logo" src="../assets/mail.png" width="34"></a>
+	<a href="mailto:deeddesk.in@gmail.com"><img alt="email_logo" src="../assets/mail.png" width="36"></a>
 	&nbsp;
 	<a href="https://twitter.com/DeedDesk_india" target="_blank"><img alt="twitter_logo" src="../assets/twitter.png" width="34"></a>
 	&nbsp;
 	<a href="https://instagram.com/deeddesk" target="_blank"><img alt="instagram_logo" src="../assets/instagram.png" width="34"></a>
 	&nbsp;
-	<img alt="linkedIn_logo" src="../assets/linkedin.png" width="34">
+	<img alt="linkedIn_logo" src="../assets/linkedin.png" width="36">
 </p>

@@ -25,19 +25,11 @@
 
 <br>
 
-<table border="0">
+<table border="0" style="display:contents">
  <tr>
    <!-- Legally Compliant -->
-   <td width="600">
-     <h2 align="center"><a href="https://deeddesk.in">100% Legally Compliant</a></h2>
-     <img src="../assets/compliant.png" width="85" alt="Legally Compliant" align="left" />
-     <p>Every agreement is vetted by legal experts and compliant with the latest Indian Rent Laws.</p>
-   </td>
+   <td width="500px"><h2 align="center"><a href="https://deeddesk.in">100% Legally Compliant</a></h2><img src="../assets/compliant.png" style="margin:10px;" width="85px" alt="Legally Compliant" align="left" /></p><p>Every agreement is vetted by legal experts and compliant with the latest Indian Rent Laws.</p></td>
    <!-- Aadhaar OTP eSigning -->
-   <td width="600">
-     <h2 align="center"><a href="https://deeddesk.in">Aadhaar OTP eSigning</a></h2>
-     <img src="../assets/aadhaar.png" width="85" alt="Aadhaar eSigning" align="left" />
-     <p>Legally binding signatures using Aadhaar OTP for both landlord and tenant. Sequential signing flows ensure correct order of execution.</p>
-   </td>
+   <td width="500px"><h2 align="center"><a href="https://deeddesk.in">Aadhaar OTP eSigning</a></h2><img src="../assets/aadhaar.png" style="margin:10px; padding:5px" width="85px" alt="Aadhaar OTP eSigning" align="left" /></p><p>Legally binding signatures using Aadhaar OTP for both landlord and tenant. Sequential signing flows ensure correct order of execution.</p></td>
  </tr>
 </table>

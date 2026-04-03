@@ -12,7 +12,6 @@
 
 <p align="center"><b>Connect With Us</b></p>
 
-<<<<<<< HEAD
 <p align="center">
 	<a href="https://deeddesk.in" target="_blank"><img alt="website_logo" src="../assets/worldwide.png" width="36"></a>
 	&nbsp;
@@ -24,33 +23,6 @@
 	&nbsp;
 	<img alt="linkedIn_logo" src="../assets/linkedin.png" width="36">
 </p>
-=======
-<div align="center" style="margin-top: 20px; line-height: 0; font-size: 0;">
-	<div style="display: inline-block; margin: 0 10px;">
-		<a href="https://deeddesk.in" target="_blank" style="text-decoration: none; border: 0;">
-			<img src="../assets/worldwide.png" alt="Worldwide" width="34" style="display: block; border: 0;"/>
-		</a>
-	</div>
-	<div style="display: inline-block; margin: 0 10px;">
-		<a href="mailto:deeddesk.in@gmail.com" style="text-decoration: none; border: 0;">
-			<img src="../assets/mail.png" alt="Mail" width="34" style="display: block; border: 0;"/>
-		</a>
-	</div>
-	<div style="display: inline-block; margin: 0 10px;">
-		<a href="https://twitter.com/DeedDesk_india" target="_blank" style="text-decoration: none; border: 0;">
-			<img src="../assets/twitter.png" alt="Twitter" width="34" style="display: block; border: 0;"/>
-		</a>
-	</div>
-	<div style="display: inline-block; margin: 0 10px;">
-		<a href="https://instagram.com/deeddesk" target="_blank" style="text-decoration: none; border: 0;">
-			<img src="../assets/instagram.png" alt="Instagram" width="34" style="display: block; border: 0;"/>
-		</a>
-	</div>
-	<div style="display: inline-block; margin: 0 10px;">
-		<img src="../assets/linkedin.png" alt="LinkedIn" width="34" style="display: block; border: 0;"/>
-	</div>
-</div>
-<div style="margin-top: 32px;"></div>
 
 <div align="center">
 	<h2><b>Everything You Need for a <span style="color: #58A6FF;">perfect Agreement</span> </b></h2>
@@ -70,4 +42,3 @@
 	 </td>
  </tr>
 </table>
->>>>>>> 417fc46 (Add Aadhaar and Compliant images to README for enhanced visual representation of features)

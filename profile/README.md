@@ -7,8 +7,6 @@
 <div align="center">
 	<h4><i>India's Smartest Way to Create Rental Agreements</i></h4>
 </div>
-
-<br>
 <br>
 
 <p align="center"><b>Connect With Us</b></p>

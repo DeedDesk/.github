@@ -25,19 +25,7 @@
 </p>
 <table border="0" style="display:contents">
  <tr>
-	 <td width="500px">
-		<h2 align="center">100% Legally Compliant</h2>
-		<div style="display:flex; align-items:flex-start; gap:12px;">
-			<img src="../assets/compliant.png" width="85px" alt="Compliant" style="margin-top:-4px;" />
-			<p style="margin:0;">Every agreement is vetted by legal experts and compliant with the latest Indian Rent Laws.</p>
-		</div>
-	 </td>
-	 <td width="500px">
-		<h2 align="center">Aadhaar OTP eSigning</h2>
-		<div style="display:flex; align-items:flex-start; gap:12px;">
-			<img src="../assets/aadhaar.png" width="85px" alt="Aadhaar" style="margin-top:-4px;" />
-			<p style="margin:0;">Legally binding signatures using Aadhaar OTP for both landlord and tenant. Sequential signing flows ensure correct order of execution.</p>
-		</div>
-	 </td>
+	 <td width="500px"><h2 align="center">100% Legally Compliant</h2><img src="../assets/compliant.png" style="margin:10px;" width="85px" alt="Compliant" align="left" /><p>Every agreement is vetted by legal experts and compliant with the latest Indian Rent Laws.</p></td>
+	 <td width="500px"><h2 align="center">Aadhaar OTP eSigning</h2><img src="../assets/aadhaar.png" style="margin:10px;" width="85px" alt="Aadhaar" align="left" /><p>Legally binding signatures using Aadhaar OTP for both landlord and tenant. Sequential signing flows ensure correct order of execution.</p></td>
  </tr>
 </table>

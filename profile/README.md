@@ -56,7 +56,7 @@
 		<td width="50%" valign="top">
 			<h2 align="center"><a href="https://deeddesk.in">Bank-Grade Security</a></h2>
 			<p>
-				<img src="../assets/secure-ssl.png" width="85px" alt="Bank-Grade Security" align="left" hspace="10" />
+				<img src="../assets/secure-ssl.png" height="120px" width="115px" alt="Bank-Grade Security" align="left" hspace="10" />
 				<em>Data encrypted in transit and at rest. OTP-verified access, audit logs, and tamper-proof document chain for every agreement.</em>
 			</p>
 			<br clear="left" />
